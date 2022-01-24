@@ -1,3 +1,9 @@
+```
+--------------------------------------------------------------------------------------------
+Note. The zip file "hlpl_english_words_synonym_antonym.zip" must be extracted
+in "hlpl_english_words_synonym_antonym/" directory before running installation
+--------------------------------------------------------------------------------------------
+```
 
 # hlpl_english_words_synonym_antonym
 
