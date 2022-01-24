@@ -1,0 +1,11 @@
+hlpl_english_words_synonym_antonym/__init__.py,sha256=8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U,3
+hlpl_english_words_synonym_antonym/__main__.py,sha256=kQG-dVlD5NgeZiJ1fnp9FS-4E2o-QxfIQwE-PmTRIgk,1008
+hlpl_english_words_synonym_antonym/english_words_synonym_antonym.py,sha256=et5H0Fp1inXcevq_a4waL3BIoWr5crvbyRgnC4rMrXw,335
+hlpl_english_words_synonym_antonym/hlpl_english_words_synonym_antonym.db,sha256=NgxieX5WcH4Mi64qKT8t-6w-IjgUAidbx1dddJATHqI,34295808
+hlpl_english_words_synonym_antonym/setup.cfg,sha256=I6BVP0i8t8CByeJ8UPMV_QwUF3Sh7aZaK89W-5m93C4,629
+hlpl_english_words_synonym_antonym-1.0.0.dist-info/LICENSE,sha256=nBok_KgklmynvHcLC8IDYB1_MhXabOx-3DA8hrXhXoU,1061
+hlpl_english_words_synonym_antonym-1.0.0.dist-info/METADATA,sha256=BFCDkmWbExrSr3cV7rvwlTaV5zKgHT3-u0qDoaemK6A,2769
+hlpl_english_words_synonym_antonym-1.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+hlpl_english_words_synonym_antonym-1.0.0.dist-info/entry_points.txt,sha256=TJgR4auoJ8qExjoVF9ZrTmhrctLubtiHVjKSSy4Uj80,105
+hlpl_english_words_synonym_antonym-1.0.0.dist-info/top_level.txt,sha256=rwo7AYe-SSfz6gIZ83k_NX6u_Jqm2zD3Nd4nr4x6oKQ,35
+hlpl_english_words_synonym_antonym-1.0.0.dist-info/RECORD,,
